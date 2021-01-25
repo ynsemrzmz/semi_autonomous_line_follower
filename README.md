@@ -1,3 +1,4 @@
+# Semi Autonomous Line Follower
 You can see how this robot works in the sample video.
 This robot has QTR-8A reflectance sensor array to detect line.It uses PID control method to follow line.And it has MZ80 infrared distance senso, with this sensor 
 it can react to objects in front of it like gates etc.There is two DC motor in this robot , TBB6612FNG motor driver used with this two motor.Arduino Uno is the 
